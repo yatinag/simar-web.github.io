@@ -673,7 +673,7 @@ body.loaded .overlay_effect:after{
 	height: auto;
 	clear: both;
 	float: left;
-	padding: 80px 0px;
+	padding: 85px 0px;
 }
 .shane_tm_about .about_inner{
 	width: 100%;
@@ -2014,6 +2014,7 @@ body.modal{overflow: hidden;}
 	.shane_tm_portfolio_titles{display: none;}
 	.shane_tm_portfolio .mobile_title{display: block;}
 	.shane_tm_hero .content h3{font-size: 50px;}
+	.shane_tm_about {padding: 50px 0px;}
 	.shane_tm_about .about_inner{flex-direction: column;}
 	.shane_tm_about .left{padding-right: 0px;width: 100%;margin-bottom: 50px;}
 	.shane_tm_about .right{padding-left: 0px;width: 100%;}
